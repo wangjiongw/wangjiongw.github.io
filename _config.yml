@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Jiong / Site Title"
+title                    : "Mr. WANG Jiong"
 title_separator          : "-"
 name                     : &name "WANG Jiong"
-description              : &description "personal description"
+description              : &description "Research Intern @ Shanghai AI Lab"
 url                      : https://wangjiongw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wangjiongw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
