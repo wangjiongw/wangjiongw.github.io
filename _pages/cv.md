@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Electronic Engineering, The Chinese University of Hong Kong, 2015 - 2020. Advisor: Prof. Hongsheng Li
-* M.S. in The Chinese University of Hong Kong(Shenzhen), 2021 - 2023. Advisor: Prof. Ruimao Zhang
-* Incoming Ph.D in Electric Science and Technology, Fudan University, 2023 - 
+* 2015 - 2020 B.S. at Department of Electronic Engineering, the Chinese University of Hong Kong
+  * Advisor: Prof. Hongsheng Li
+* 2021 - 2023 M.S. at the Chinese University of Hong Kong(Shenzhen)
+  * Advisor: Prof. David Zhang Dapeng and Prof. Ruimao Zhang
+* 2023 -      Incoming Ph.D at Fudan University
 
 Work experience
 ======
@@ -62,18 +64,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
