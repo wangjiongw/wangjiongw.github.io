@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. WANG Jiong"
+title                    : "Jiong WANG's Page"
 title_separator          : "-"
-name                     : &name "WANG Jiong"
+name                     : &name "Jiong WANG"
 description              : &description "Research Intern @ Shanghai AI Lab"
 url                      : https://wangjiongw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "WANG Jiong"
+  name             : "Jiong WANG"
   avatar           : "portrait_wj.jpg"
-  bio              : "Incoming PhD @ Fudan University; Intern @ Shanghai AI Lab"
+  bio              : "Incoming PhD @ Fudan University \\Intern @ Shanghai AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

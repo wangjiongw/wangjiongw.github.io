@@ -11,22 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Electronic Engineering, The Chinese University of Hong Kong, 2020
-* M.S. in The Chinese University of Hong Kong(Shenzhen), 2023
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.S. in Department of Electronic Engineering, The Chinese University of Hong Kong, 2015 - 2020. Advisor: Prof. Hongsheng Li
+* M.S. in The Chinese University of Hong Kong(Shenzhen), 2021 - 2023. Advisor: Prof. Ruimao Zhang
+* Incoming Ph.D in Electric Science and Technology, Fudan University, 2023 - 
 
 Work experience
 ======
 * Summer 2017: Research Assistant
   * The Chinese University of Hong Kong
-  * Duties included: Tagging issues
-  * Supervisor: Professor Tan Lee
+  * Duties included: Voice Activity Detection
+  * Advisor: [Prof. Tan Lee](https://www.ee.cuhk.edu.hk/~tanlee/)
 
-* Fall 2018: Research Assistant
+* Summer 2018: Research Assistant
   * The Chinese University of Hong Kong
   * Duties included: Algorithm research & Model Training
-  * Supervisor: Professor Hongsheng Li
+  * Advisor: [Prof. Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/)
+
+* Fall 2018 - Summer 2020: Research Intern
+  * SenseTime Research
+  * Duties included: Model compression for Low-level vision
+  * Advisor: [Dr. Dongqing Zou](https://sites.google.com/view/dongqingzou/)
+
+* Summer 2020 - Fall 2021: Researcher
+  * Tetras.ai, SenseTime Group
+  * Duties included: Low-level Vision
+  * Advisor: [Dr. Dongqing Zou](https://sites.google.com/view/dongqingzou/), [Dr. Yu Zhang](https://zhangyulb.github.io/)
+
+* Spring 2022 - Spring 2023: Research Intern
+  * Turing Lab, Tencent Group
+  * Duties included: 3D Human Motion Perception
+  * Advisor: [Dr. Junle Wang](https://scholar.google.com/citations?user=gMbAGbMAAAAJ&hl=zh-CN)
   
+* Spring 2023: Research Intern
+  * Shanghai AI Lab
+  * Duties included: Multimodal Learning, Large Language Model
+  * Advisor: [Dr. Xiaoshui Huang](https://xiaoshuihuang.github.io/)
+
 Skills
 ======
 * PyThon, C++, Matlab, Bash
