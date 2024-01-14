@@ -5,6 +5,7 @@ permalink: /publication/2020-06-16-Learning-a-Reinforced-Agent-for-Flexible-Expo
 excerpt: 'Reinforcement Learning for HDR'
 date: 2020-06-16
 venue: 'CVPR2020'
+paperurl: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_a_Reinforced_Agent_for_Flexible_Exposure_Bracketing_Selection_CVPR_2020_paper.pdf'
 citation: ' '
 ---
 
