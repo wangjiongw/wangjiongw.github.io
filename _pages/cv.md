@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2015 - 2020 B.S. at Department of Electronic Engineering, the Chinese University of Hong Kong
-  * Advisor: Prof. Hongsheng Li
+* 2023 -      Ph.D student at Fudan University & Shanghai AI Laboratory
+  * Advisor: Prof. Tao Chen, mentored by Dr. Lei Bai
 * 2021 - 2023 M.S. at the Chinese University of Hong Kong(Shenzhen)
   * Advisor: Prof. David Zhang Dapeng and Prof. Ruimao Zhang
-* 2023 -      Incoming Ph.D at Fudan University
+* 2015 - 2020 B.S. at Department of Electronic Engineering, the Chinese University of Hong Kong
+  * Advisor: Prof. Hongsheng Li
 
 Work experience
 ======
@@ -44,15 +45,16 @@ Work experience
   * Duties included: 3D Human Motion Perception
   * Advisor: [Dr. Junle Wang](https://scholar.google.com/citations?user=gMbAGbMAAAAJ&hl=zh-CN)
   
-* Spring 2023: Research Intern
+* Spring 2023 - present: Research Intern
   * Shanghai AI Lab
   * Duties included: Multimodal Learning, Large Language Model
-  * Advisor: [Dr. Xiaoshui Huang](https://xiaoshuihuang.github.io/)
+  * Advisor: [Dr. Lei Bai](http://leibai.site/)
 
 Skills
 ======
 * PyThon, C++, Matlab, Bash
 * PyTorch
+
 
 Publications
 ======
