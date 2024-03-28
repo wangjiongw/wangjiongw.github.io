@@ -20,9 +20,12 @@ I also had a fantastic two-year experience as computer vision researcher at Tetr
 
 Selected Projects
 ======
-LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark. [Project Page](https://openlamm.github.io)
+**[NeurIPS2023]** LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark. 
+[Project Page](https://openlamm.github.io)
 
-FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions. [Project Page](https://wangjiongw.github.io/freeman/)
+**[CVPR2024]** FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions. 
+
+[Project Page](https://wangjiongw.github.io/freeman/)
 
 Contact
 ------
