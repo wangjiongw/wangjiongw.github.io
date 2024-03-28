@@ -24,7 +24,6 @@ Selected Projects
 [Project Page](https://openlamm.github.io)
 
 **[CVPR2024]** FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions. 
-
 [Project Page](https://wangjiongw.github.io/freeman/)
 
 Contact
