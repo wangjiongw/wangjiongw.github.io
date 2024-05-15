@@ -13,9 +13,9 @@ Welcome to my Homepage!
 
 Biography
 ======
-Hi, I am currently a Ph.D. student at Fudan University supervised by [Prof. Tao Chen](http://https://eetchen.github.io/), and I'm also mentored by [Prof. Wanli Ouyang](https://wlouyang.github.io/) and [Dr. Lei Bai](http://leibai.site/) at Shanghai Artificial Intelligence Laboratory. My research interests lie in **MultiModal Learning** and **AI4Earth**.
-Previously, I obtained MPhil degree at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn), supervised by [Prof. David Zhang Dapeng](https://www4.comp.polyu.edu.hk/~csdzhang/) and [Prof. Ruimao Zhang](http://www.zhangruimao.site/) and bachelor degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). 
+Hi, I am currently a Ph.D. student at Fudan University supervised by [Prof. Tao Chen](https://eetchen.github.io/), and I'm also mentored by [Dr. Lei Bai](http://leibai.site/) at Shanghai Artificial Intelligence Laboratory. My research interests lie in **MultiModal Learning** and **AI4Earth**.
 
+Previously, I obtained MPhil degree at [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn), supervised by [Prof. David Zhang Dapeng](https://www4.comp.polyu.edu.hk/~csdzhang/) and [Prof. Ruimao Zhang](http://www.zhangruimao.site/) and bachelor degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). 
 I also had a fantastic two-year experience as computer vision researcher at Tetras.ai, SenseTime Group working with [Dr. Sijie Ren](http://www.jimmyren.com/) and [Dr. Dongqing Zou](https://scholar.google.com/citations?user=K1-PFhYAAAAJ&hl=zh-CN). 
 
 Selected Projects
@@ -27,7 +27,7 @@ Selected Projects
 [Project Page](https://wangjiongw.github.io/freeman/)
 
 Contact
-------
+=======
 Address: 701, Yunjin Road, Xuhui District, Shanghai, China
 
 Email: wangjiong@pjlab.org.cn / jiongwang23@m.fudan.edu.cn
