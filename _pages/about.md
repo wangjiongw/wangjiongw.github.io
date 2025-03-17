@@ -26,6 +26,12 @@ Selected Projects
 **[CVPR2024]** FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions. 
 [Project Page](https://wangjiongw.github.io/freeman/)
 
+Community Service
+=======
+Conference Reviewers for CVPR, ICML, ICLR.
+
+Transaction reviewers for TCSVT, TOMM.
+
 Contact
 =======
 Address: 701, Yunjin Road, Xuhui District, Shanghai, China
