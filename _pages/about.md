@@ -20,11 +20,14 @@ I also had a fantastic two-year experience as computer vision researcher at Tetr
 
 Selected Projects
 ======
-**[NeurIPS2023]** LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark. 
-[Project Page](https://openlamm.github.io)
+**[Arxiv]** EarthLink: A Self-Evolving AI Agent for Climate Science 
+[Project Page](http://www.openearthlab.com/EarthLink/) | [Demo](https://earthlink.intern-ai.org.cn/)
 
-**[CVPR2024]** FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions. 
-[Project Page](https://wangjiongw.github.io/freeman/)
+**[NeurIPS2023]** LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark
+[Project Page](https://openlamm.github.io) | [Code](https://github.com/OpenGVLab/LAMM) | [Data](https://huggingface.co/datasets/openlamm/LAMM_Dataset) | [Model Weights](https://huggingface.co/openlamm/models)
+
+**[CVPR2024]** FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions
+[Project Page](https://wangjiongw.github.io/freeman/) | [Data](https://huggingface.co/datasets/wjwow/FreeMan) | [Code](https://github.com/wangjiongw/FreeMan_API/tree/main)
 
 Community Service
 =======
