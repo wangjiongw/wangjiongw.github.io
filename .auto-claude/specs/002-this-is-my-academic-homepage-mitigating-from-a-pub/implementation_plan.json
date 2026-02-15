@@ -1,0 +1,56 @@
+{
+  "spec_name": "002-academic-homepage-analysis",
+  "workflow_type": "simple",
+  "total_phases": 1,
+  "recommended_workers": 1,
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Repository Analysis & Planning",
+      "description": "Analyze the academic homepage repository and create improvement plans",
+      "depends_on": [],
+      "subtasks": [
+        {
+          "id": "subtask-1-1",
+          "description": "Explore repository structure and analyze current implementation",
+          "service": "main",
+          "status": "completed",
+          "files_to_create": [
+            ".auto-claude/specs/002-this-is-my-academic-homepage-mitigating-from-a-pub/repository_analysis.md"
+          ],
+          "files_to_modify": [],
+          "patterns_from": [],
+          "verification": {
+            "type": "manual",
+            "run": "Review repository_analysis.md covers: structure overview, tech stack (Jekyll), current pages, collections, and key findings"
+          },
+          "completed_at": "2026-02-15T20:30:00Z"
+        },
+        {
+          "id": "subtask-1-2",
+          "description": "Create prioritized improvement todo list",
+          "service": "main",
+          "status": "pending",
+          "files_to_create": [
+            ".auto-claude/specs/002-this-is-my-academic-homepage-mitigating-from-a-pub/improvement_todo.md"
+          ],
+          "files_to_modify": [],
+          "patterns_from": [],
+          "verification": {
+            "type": "manual",
+            "run": "Review improvement_todo.md includes: user-proposed improvements (blog), agent-discovered improvements (visualization, impact), priorities, and no code changes"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-02-15T20:24:00Z",
+    "complexity": "simple",
+    "estimated_sessions": 1
+  },
+  "feature": "002-academic-homepage-analysis",
+  "status": "in_progress",
+  "planStatus": "in_progress",
+  "updated_at": "2026-02-15T12:27:36.526Z"
+}
