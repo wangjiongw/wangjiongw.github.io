@@ -1,0 +1,39 @@
+{
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
+  },
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Read(./**)",
+      "Write(./**)",
+      "Edit(./**)",
+      "Glob(./**)",
+      "Grep(./**)",
+      "Read(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/**)",
+      "Write(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/**)",
+      "Edit(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/**)",
+      "Glob(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/**)",
+      "Grep(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/**)",
+      "Read(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/.auto-claude/specs/008-update-ruby-and-jekyll-versions/**)",
+      "Write(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/.auto-claude/specs/008-update-ruby-and-jekyll-versions/**)",
+      "Edit(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/worktrees/tasks/008-update-ruby-and-jekyll-versions/.auto-claude/specs/008-update-ruby-and-jekyll-versions/**)",
+      "Read(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/**)",
+      "Write(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/**)",
+      "Edit(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/**)",
+      "Glob(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/**)",
+      "Grep(/Users/wangjiong/Documents/1_Personal/wangjiongw.github.io/.auto-claude/**)",
+      "Bash(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "mcp__context7__resolve-library-id(*)",
+      "mcp__context7__get-library-docs(*)",
+      "mcp__graphiti-memory__search_nodes(*)",
+      "mcp__graphiti-memory__search_facts(*)",
+      "mcp__graphiti-memory__add_episode(*)",
+      "mcp__graphiti-memory__get_episodes(*)",
+      "mcp__graphiti-memory__get_entity_edge(*)"
+    ]
+  }
+}

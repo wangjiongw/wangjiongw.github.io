@@ -1,2 +1,5 @@
 _site/
 
+
+# Auto Claude data directory
+.auto-claude/
