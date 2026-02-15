@@ -1,25 +1,25 @@
 {
   "active": true,
   "spec": "008-update-ruby-and-jekyll-versions",
-  "state": "building",
+  "state": "paused",
   "subtasks": {
-    "completed": 1,
+    "completed": 3,
     "total": 9,
     "in_progress": 1,
     "failed": 0
   },
   "phase": {
-    "current": "Prepare Environment",
-    "id": null,
-    "total": 4
+    "current": "",
+    "id": 0,
+    "total": 0
   },
   "workers": {
     "active": 0,
     "max": 1
   },
   "session": {
-    "number": 3,
-    "started_at": "2026-02-15T23:42:23.910941"
+    "number": 1,
+    "started_at": "2026-02-16T01:45:20.453342"
   },
-  "last_update": "2026-02-15T23:51:35.861797"
+  "last_update": "2026-02-16T01:45:20.538370"
 }

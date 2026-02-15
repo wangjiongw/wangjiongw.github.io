@@ -1,3 +1,13 @@
+## [Unreleased]
+
+### Maintenance
+
+- Upgrade Ruby from 2.6 to 3.3.4 for security and compatibility with GitHub Pages
+- Upgrade Jekyll from 3.9 to 3.10.0 (via github-pages gem 232)
+- Add `jekyll-include-cache` plugin to Gemfile and `_config.yml` for improved performance
+- Update all bundled gems to latest GitHub Pages compatible versions
+- Site successfully builds and renders with new versions
+
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
 ### Enhancements
